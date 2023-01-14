@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
-function Header({title}) {
+function Header({ title }) {
   return (
-    <h1>{title}</h1>
-  )
+    <div className="bg-dark text-center p-2" id="header">
+      <h1>{title}</h1>
+    </div>
+  );
 }
 
-export default Header
+export default Header;
