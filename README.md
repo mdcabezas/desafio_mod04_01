@@ -1,11 +1,7 @@
 ## Desafio Modulo 04 Proyecto 01
 
 
-#### GithubPages
-
-[https://mdcabezas.github.io/desafio_mod04_01/](https://mdcabezas.github.io/desafio_mod04_01/)
-
-![Screenshot](./assets/img/screenshot.jpg)
+![Screenshot](https://mdcabezas.github.io/desafio_mod04_01/screenshot.jpg)
 
 ***
 
